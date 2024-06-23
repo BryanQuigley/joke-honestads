@@ -1,0 +1,20 @@
+# Site title
+title = "MaleChimps"
+base_url = "https://malechimps.com"
+description = "Honest Ads are funny"
+compile_sass = false
+
+theme = "andromeda"
+external_links_target_blank = false
+
+[extra]
+header_links = [
+    {name = "YouTube", url = "https://www.youtube.com/@Honest_Ads"},
+    {name = "Horton Merchandise", url = "https://the-cracked-dispensary.creator-spring.com/"},
+    {name = "Contributions Welcome", url = "https://github.com/BryanQuigley/joke-honestads"},
+]
+
+#license = "CC BY-NC 2.0"
+email = ""
+name = "Not the honest ads team"
+# favicon = "/images/favicon.ico"

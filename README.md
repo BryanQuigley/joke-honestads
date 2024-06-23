@@ -1,0 +1,1 @@
+Wanted to see how fast I could make a site. Feel free to make it better.
